@@ -1,24 +1,11 @@
-# README
+# Hotwire experiment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple experiment using hotwire I followed the tutorial created by driftingruby
 
-Things you may want to cover:
+https://www.driftingruby.com/episodes/hotwire
 
-* Ruby version
+Every relevant change is encapsulated in an individual commit for study purposes.
 
-* System dependencies
+TODO
+Fix webpacker issue loading stimulus
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
