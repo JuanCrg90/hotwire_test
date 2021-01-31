@@ -11,4 +11,7 @@ import "channels"
 Rails.start()
 ActiveStorage.start()
 
-import "controllers"
+//import "controllers"
+
+require("trix")
+require("@rails/actiontext")
